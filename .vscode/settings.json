@@ -1,0 +1,17 @@
+{
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    },
+
+    "code-runner.executorMap": {
+        "python": "Demo\\Scripts\\activate.bat && set PYTHONIOENCODING=utf8 && python -u",
+        
+
+    },
+    "git.ignoreLimitWarning": true,
+
+    // "code-runner.runInTerminal": true
+   
+}
